@@ -1,60 +1,50 @@
-# DARTSimPro-Community
+# DART Sim Pro — Community & Feedback
 
-Welcome to the DARTSimPro-Community repository! This is the official space for users of DART Sim Pro to share feedback, suggest new features, and report issues. DART Sim Pro is an advanced ECG rhythm and monitor/defibrillator simulator designed for medical professionals, including paramedics, EMTs, nurses, and doctors, to enhance training in CPR, ACLS, PALS, and NRP.
+Welcome to the official community space for **DART Sim Pro**, an advanced ECG rhythm and monitor/defibrillator simulator for medical professionals — paramedics, EMTs, nurses, and doctors — to enhance training in **CPR, ACLS, PALS, and NRP**.
 
-Our goal is to improve DART Sim Pro based on your input, ensuring it remains a valuable tool for medical education and training. Whether you're reporting a bug, requesting a feature, or sharing general feedback, your contributions help shape the future of DART Sim Pro!
+This is where you **report bugs**, **request features**, and **share feedback** to help shape the future of the app.
 
-## Scope of This Repository
-This repository is dedicated to:
-- Collecting Feedback: Share your experiences, suggestions, or ideas to enhance DART Sim Pro's functionality, usability, or features.
-- Reporting Issues: Log bugs or technical issues encountered while using DART Sim Pro on iOS, Android, PC, or Mac.
-- Feature Requests: Propose new scenarios, ECG rhythms, capnography waveforms, or other features to support medical training.
-- Community Collaboration: Engage with other medical professionals and educators to discuss best practices and improvements for DART Sim Pro.
+> 📚 **Looking for documentation?** → **[Read the DART Sim Pro Wiki](https://github.com/dartsim1/DARTSimPro-Community/wiki)**
+> Installation, getting started, the user guide, FAQ, troubleshooting, and the full contribution guide all live there, organized with a table of contents.
 
-This repository is not for general support inquiries or licensing issues. For those, please visit ecg-simulator.com or contact DART Sim support directly.
+---
 
-## How to Contribute
-We welcome contributions from all DART Sim Pro users! To provide feedback or report an issue, please use the Issues tab on this GitHub repository. Follow these steps:
+## 📚 Documentation (Wiki)
 
-1. Navigate to the Issues Tab
-  - Go to the Issues tab at the top of this repository.
+The **[Wiki](https://github.com/dartsim1/DARTSimPro-Community/wiki)** is our documentation home, organized into sections:
 
-2. Choose an Issue Template
-We provide two templates to streamline your submission:
-  - Bug Report: Use this to report technical issues, such as crashes, incorrect ECG outputs, or connectivity problems with the DART Sim Remote app.
-  - Feature Request/Feedback: Use this to suggest new features (e.g., additional scenarios, X-rays, or medications) or share general feedback about the app.
+- **🚀 Getting Started** — [Installation](https://github.com/dartsim1/DARTSimPro-Community/wiki/Installation) · [Activation and Licensing](https://github.com/dartsim1/DARTSimPro-Community/wiki/Activation-and-Licensing) · [Quick Start](https://github.com/dartsim1/DARTSimPro-Community/wiki/Quick-Start)
+- **📖 User Guide** — [ECG Rhythms](https://github.com/dartsim1/DARTSimPro-Community/wiki/ECG-Rhythms), [Monitor/Defibrillator](https://github.com/dartsim1/DARTSimPro-Community/wiki/Monitor-Defibrillator), [Capnography](https://github.com/dartsim1/DARTSimPro-Community/wiki/Capnography), [Scenarios](https://github.com/dartsim1/DARTSimPro-Community/wiki/Scenarios), [Remote Control App](https://github.com/dartsim1/DARTSimPro-Community/wiki/Remote-Control-App), [CPR Hardware](https://github.com/dartsim1/DARTSimPro-Community/wiki/CPR-Hardware-and-Bluetooth)
+- **❓ Help** — [FAQ](https://github.com/dartsim1/DARTSimPro-Community/wiki/FAQ) · [Troubleshooting](https://github.com/dartsim1/DARTSimPro-Community/wiki/Troubleshooting)
+- **💬 Community & Feedback** — [Reporting a Bug](https://github.com/dartsim1/DARTSimPro-Community/wiki/Reporting-a-Bug) · [Requesting a Feature](https://github.com/dartsim1/DARTSimPro-Community/wiki/Requesting-a-Feature) · [Submission Tips](https://github.com/dartsim1/DARTSimPro-Community/wiki/Submission-Tips)
 
-Click New Issue and select the appropriate template.
+---
 
-3. Fill Out the Template
-Provide as much detail as possible to help us understand and address your submission:
-  - For Bug Reports:
-    - Describe the issue (e.g., "App crashes when selecting STEMI rhythm").
-    - Specify your platform (e.g., iOS 16.2, Windows 10, Android 12).
-    -Include steps to reproduce the issue.
-    - Attach screenshots or error messages, if applicable.
-  - For Feature Requests/Feedback:
-    - Explain the proposed feature or feedback (e.g., "Add pediatric-specific capnography waveforms").
-    - Describe how it would benefit your training or workflow.
-    - Include any relevant context (e.g., specific medical scenarios).
+## 💬 Share Feedback & Report Issues
 
-4. Submit Your Issue
-  - Review your submission for clarity and completeness.
-  - Click Submit new issue to post it. Our team and community will review and respond.
+We welcome contributions from all DART Sim Pro users. The quickest way to help:
 
-## Tips for Effective Submissions
-  - Be Specific: Clear details help us address issues faster.
-  - Search Existing Issues: Check if your issue or suggestion has already been reported to avoid duplicates.
-  - Be Respectful: Maintain a professional tone to foster constructive discussions.
+| | |
+|---|---|
+| 🐛 **Found a bug?** | **[Open a Bug Report →](https://github.com/dartsim1/DARTSimPro-Community/issues/new?template=bug_report.md)** |
+| 💡 **Have an idea?** | **[Request a Feature →](https://github.com/dartsim1/DARTSimPro-Community/issues/new?template=feature_request.md)** |
+| 🔎 **Want to browse?** | **[See all Issues →](https://github.com/dartsim1/DARTSimPro-Community/issues)** |
 
-## Community Guidelines
-  - Respectful Communication: Treat all community members with respect and professionalism.
-  - Stay On-Topic: Focus on feedback and issues related to DART Sim Pro.
-  - No Personal Information: Do not share sensitive personal or medical data in issues or comments.
+Before posting, please **[search existing issues](https://github.com/dartsim1/DARTSimPro-Community/issues)** to avoid duplicates, and see **[Submission Tips](https://github.com/dartsim1/DARTSimPro-Community/wiki/Submission-Tips)** for what makes a great report. Full step-by-step instructions live in the Wiki: **[Reporting a Bug](https://github.com/dartsim1/DARTSimPro-Community/wiki/Reporting-a-Bug)** and **[Requesting a Feature](https://github.com/dartsim1/DARTSimPro-Community/wiki/Requesting-a-Feature)**.
 
-## Need Help?
-If you’re new to GitHub or need assistance with submitting an issue, check GitHub’s Creating an Issue guide. For general DART Sim Pro support, visit ecg-simulator.com or contact the DART Sim support team.
+**Please do not post** personal/patient data, license keys, or account credentials.
 
-## License
-This repository is for community feedback and does not contain DART Sim Pro source code. The DART Sim Pro software is subject to its own licensing terms, available at ecg-simulator.com.Thank you for helping us make DART Sim Pro better for medical training worldwide!
+---
 
+## What this repository is for
+
+- ✅ Collecting feedback on functionality, usability, and features
+- ✅ Reporting bugs on iOS, Android, PC, or Mac
+- ✅ Requesting new scenarios, ECG rhythms, capnography waveforms, and more
+- ✅ Community collaboration among medical professionals and educators
+
+This repository is **not** for general support inquiries or licensing issues, and does **not** contain DART Sim Pro source code. For purchasing, licensing, or product support, visit **[ecg-simulator.com](https://ecg-simulator.com)**.
+
+---
+
+*Thank you for helping us make DART Sim Pro better for medical training worldwide!*
