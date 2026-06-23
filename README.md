@@ -48,3 +48,7 @@ This repository is **not** for general support inquiries or licensing issues, an
 ---
 
 *Thank you for helping us make DART Sim Pro better for medical training worldwide!*
+
+---
+
+> **🚧 Note: The Wiki is under construction — not all pages are fully available yet. We're actively adding content, so please check back as documentation continues to grow.**
