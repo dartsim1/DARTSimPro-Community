@@ -1,5 +1,17 @@
 # DART Sim Pro — Community & Feedback
 
+<p align="center"><img src="assets/ios27-notice.svg" alt="Known issue: on iOS / iPadOS 27 the app closes right after launch. Fix 26.10.13 is in App Store review." width="900"></p>
+
+> [!CAUTION]
+> ## ⚠️ Known issue: iPhone & iPad on iOS / iPadOS 27
+> **DART Sim Pro 26.10.10 (and the matching DART Sim Pro Remote) closes a couple of seconds after launch on iPhones and iPads running iOS / iPadOS 27.** Devices on iOS / iPadOS 26 or earlier, Android, Windows and Mac are **not** affected.
+>
+> **The fix, version 26.10.13, has been submitted to Apple and is awaiting App Store review.** It will arrive as a normal App Store update, with no reinstall or re-activation needed.
+>
+> **Haven't updated yet?** If your iPhone/iPad is on iOS 27 and the app still works, hold off on updating until 26.10.13 is available.
+
+---
+
 Welcome to the official community space for **DART Sim Pro**, an advanced ECG rhythm and monitor/defibrillator simulator for medical professionals — paramedics, EMTs, nurses, and doctors — to enhance training in **CPR, ACLS, PALS, and NRP**.
 
 This is where you **report bugs**, **request features**, and **share feedback** to help shape the future of the app.
